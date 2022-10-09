@@ -1,0 +1,27 @@
+[
+	{
+		"customerId": "123",
+		"dollarsSpent": "100",
+		"transactionDate": "2022-10-01"
+	},
+	{
+		"customerId": "123",
+		"dollarsSpent": "50",
+		"transactionDate": "2022-09-01"
+	},
+	{
+		"customerId": "123",
+		"dollarsSpent": "120",
+		"transactionDate": "2022-08-01"
+	},
+	{
+		"customerId": "123",
+		"dollarsSpent": "90",
+		"transactionDate": "2022-05-01"
+	},
+	{
+		"customerId": "456",
+		"dollarsSpent": "100",
+		"transactionDate": "2022-05-01"
+	}
+]
